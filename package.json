@@ -1,0 +1,24 @@
+{
+  "name": "API-Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshitRaghav55/API-Project.git"
+  },
+  "keywords": [],
+  "author": "Harshit Raghav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshitRaghav55/API-Project/issues"
+  },
+  "homepage": "https://github.com/HarshitRaghav55/API-Project#readme",
+  "dependencies": {
+    "mongoose": "^6.5.2",
+    "validator": "^13.7.0"
+  }
+}
